@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jagan-shanmugam-climatiq-mcp-server-badge.png)](https://mseep.ai/app/jagan-shanmugam-climatiq-mcp-server)
+
 # Climatiq MCP Server
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)&ensp;
 
